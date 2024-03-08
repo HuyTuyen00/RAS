@@ -1,0 +1,1293 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\css\\animate.css",
+      "PackagePath": "staticwebassets\\admin\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\css\\jquery-ui-1.10.4.custom.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\jquery-ui-1.10.4.custom.min.css"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\admin\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\css\\loginstyle.css",
+      "PackagePath": "staticwebassets\\admin\\css\\loginstyle.css"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\css\\patterns\\3.png",
+      "PackagePath": "staticwebassets\\admin\\css\\patterns\\3.png"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\css\\patterns\\4.png",
+      "PackagePath": "staticwebassets\\admin\\css\\patterns\\4.png"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\css\\patterns\\header-profile-skin-1.png",
+      "PackagePath": "staticwebassets\\admin\\css\\patterns\\header-profile-skin-1.png"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\css\\patterns\\header-profile-skin-2.png",
+      "PackagePath": "staticwebassets\\admin\\css\\patterns\\header-profile-skin-2.png"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\css\\patterns\\header-profile-skin-3.png",
+      "PackagePath": "staticwebassets\\admin\\css\\patterns\\header-profile-skin-3.png"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\css\\patterns\\header-profile.png",
+      "PackagePath": "staticwebassets\\admin\\css\\patterns\\header-profile.png"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\css\\patterns\\shattered.png",
+      "PackagePath": "staticwebassets\\admin\\css\\patterns\\shattered.png"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\css\\plugins\\dataTables\\datatables.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\plugins\\dataTables\\datatables.min.css"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\css\\plugins\\datapicker\\datepicker3.css",
+      "PackagePath": "staticwebassets\\admin\\css\\plugins\\datapicker\\datepicker3.css"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\css\\plugins\\dropzone\\basic.css",
+      "PackagePath": "staticwebassets\\admin\\css\\plugins\\dropzone\\basic.css"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\css\\plugins\\dropzone\\dropzone.css",
+      "PackagePath": "staticwebassets\\admin\\css\\plugins\\dropzone\\dropzone.css"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\css\\plugins\\images\\bootstrap-colorpicker\\alpha-horizontal.png",
+      "PackagePath": "staticwebassets\\admin\\css\\plugins\\images\\bootstrap-colorpicker\\alpha-horizontal.png"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\css\\plugins\\images\\bootstrap-colorpicker\\alpha.png",
+      "PackagePath": "staticwebassets\\admin\\css\\plugins\\images\\bootstrap-colorpicker\\alpha.png"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\css\\plugins\\images\\bootstrap-colorpicker\\hue-horizontal.png",
+      "PackagePath": "staticwebassets\\admin\\css\\plugins\\images\\bootstrap-colorpicker\\hue-horizontal.png"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\css\\plugins\\images\\bootstrap-colorpicker\\hue.png",
+      "PackagePath": "staticwebassets\\admin\\css\\plugins\\images\\bootstrap-colorpicker\\hue.png"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\css\\plugins\\images\\bootstrap-colorpicker\\saturation.png",
+      "PackagePath": "staticwebassets\\admin\\css\\plugins\\images\\bootstrap-colorpicker\\saturation.png"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\css\\plugins\\images\\sprite-skin-flat.png",
+      "PackagePath": "staticwebassets\\admin\\css\\plugins\\images\\sprite-skin-flat.png"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\css\\plugins\\summernote\\font\\summernote9d3d.eot",
+      "PackagePath": "staticwebassets\\admin\\css\\plugins\\summernote\\font\\summernote9d3d.eot"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\css\\plugins\\summernote\\font\\summernote9d3d.ttf",
+      "PackagePath": "staticwebassets\\admin\\css\\plugins\\summernote\\font\\summernote9d3d.ttf"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\css\\plugins\\summernote\\font\\summernote9d3d.woff",
+      "PackagePath": "staticwebassets\\admin\\css\\plugins\\summernote\\font\\summernote9d3d.woff"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\css\\plugins\\summernote\\font\\summernoted41d.eot",
+      "PackagePath": "staticwebassets\\admin\\css\\plugins\\summernote\\font\\summernoted41d.eot"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\css\\plugins\\summernote\\summernote-bs4.css",
+      "PackagePath": "staticwebassets\\admin\\css\\plugins\\summernote\\summernote-bs4.css"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\css\\plugins\\sweetalert\\sweetalert.css",
+      "PackagePath": "staticwebassets\\admin\\css\\plugins\\sweetalert\\sweetalert.css"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.css"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\admin\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\admin\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\font-awesome\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\admin\\font-awesome\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\font-awesome\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\admin\\font-awesome\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\font-awesome\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\admin\\font-awesome\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\admin\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\admin\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\font-awesome\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\admin\\font-awesome\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\admin\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\fonts\\glyphicons-halflings-regulard41d.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\glyphicons-halflings-regulard41d.eot"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\img\\a1.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\a1.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\img\\a2.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\a2.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\img\\a3.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\a3.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\img\\a4.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\a4.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\img\\a5.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\a5.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\img\\a6.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\a6.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\img\\a7.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\a7.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\img\\a8.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\a8.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\img\\ami.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\ami.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\img\\fpt2.png",
+      "PackagePath": "staticwebassets\\admin\\img\\fpt2.png"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\img\\profile_small.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\profile_small.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\admin\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\js\\inspinia.js",
+      "PackagePath": "staticwebassets\\admin\\js\\inspinia.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\js\\jquery-3.1.1.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery-3.1.1.min.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\js\\modal.js",
+      "PackagePath": "staticwebassets\\admin\\js\\modal.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\js\\plugins\\dataTables\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\plugins\\dataTables\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\js\\plugins\\dataTables\\datatables.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\plugins\\dataTables\\datatables.min.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\js\\plugins\\datapicker\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\admin\\js\\plugins\\datapicker\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\js\\plugins\\dropzone\\dropzone.js",
+      "PackagePath": "staticwebassets\\admin\\js\\plugins\\dropzone\\dropzone.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\js\\plugins\\jquery-ui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\plugins\\jquery-ui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\js\\plugins\\metisMenu\\jquery.metisMenu.js",
+      "PackagePath": "staticwebassets\\admin\\js\\plugins\\metisMenu\\jquery.metisMenu.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\js\\plugins\\pace\\pace.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\plugins\\pace\\pace.min.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\js\\plugins\\slimscroll\\jquery.slimscroll.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\plugins\\slimscroll\\jquery.slimscroll.min.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\js\\plugins\\summernote\\summernote-bs4.js",
+      "PackagePath": "staticwebassets\\admin\\js\\plugins\\summernote\\summernote-bs4.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\js\\plugins\\sweetalert\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\plugins\\sweetalert\\sweetalert.min.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\js\\services\\aboutUs.js",
+      "PackagePath": "staticwebassets\\admin\\js\\services\\aboutUs.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\js\\services\\hakunamata.js",
+      "PackagePath": "staticwebassets\\admin\\js\\services\\hakunamata.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\admin\\js\\services\\realEstateServices.js",
+      "PackagePath": "staticwebassets\\admin\\js\\services\\realEstateServices.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\css\\aos.css",
+      "PackagePath": "staticwebassets\\assets\\css\\aos.css"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\assets\\css\\flaticon.css"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icomoon.css"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\css\\jquery.timepicker.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery.timepicker.css"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\css\\vendor.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor.css"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\fonts\\Flaticond41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticond41d.eot"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\fonts\\line-awesome0176.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\line-awesome0176.eot"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\fonts\\line-awesomeeb4f.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\line-awesomeeb4f.eot"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\fonts\\line-awesomeeb4f.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\line-awesomeeb4f.svg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\fonts\\line-awesomeeb4f.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\line-awesomeeb4f.ttf"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\fonts\\line-awesomeeb4f.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\line-awesomeeb4f.woff"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\fonts\\line-awesomeeb4f.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\line-awesomeeb4f.woff2"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\fonts\\slick-2.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick-2.html"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\fonts\\slick.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.html"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\fonts\\slickd41d.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slickd41d.html"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\4.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\RAS-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\RAS-3.png"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assets\\img\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\author\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\author\\1.png"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\author\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\author\\2.png"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\author\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\author\\3.png"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\author\\4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\author\\4.png"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\avatar.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\avatar.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner1.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner2.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner3.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\0254d0cc-9ded-46b1-8ab1-253a1db10f78-luna1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\0254d0cc-9ded-46b1-8ab1-253a1db10f78-luna1.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\1.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\10.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\11.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\12.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\13.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\14.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\2.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\285bfd74-85c9-4763-a779-0a783537364f-ngocmy1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\285bfd74-85c9-4763-a779-0a783537364f-ngocmy1.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\2aac9f91-2b80-4e47-abf8-4a462f0f461a-skyhome3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\2aac9f91-2b80-4e47-abf8-4a462f0f461a-skyhome3.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\2addc1c5-b535-4c7d-bdcc-186abc37e572-skyhome2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\2addc1c5-b535-4c7d-bdcc-186abc37e572-skyhome2.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\2c585f0b-c750-4746-b141-22e84fbe299c-myhome1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\2c585f0b-c750-4746-b141-22e84fbe299c-myhome1.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\3.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\4.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\44436d87-c29d-4c7a-8075-51d88db6abf5-kt_gy.PNG",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\44436d87-c29d-4c7a-8075-51d88db6abf5-kt_gy.PNG"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\45ad52af-78ab-453d-9580-ae23c7fb89bd-holaapt1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\45ad52af-78ab-453d-9580-ae23c7fb89bd-holaapt1.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\49f411be-c83d-4417-b370-68d9f142a2af-luna1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\49f411be-c83d-4417-b370-68d9f142a2af-luna1.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\4f2c6dad-280a-47e1-b847-fcc6ba83b3f8-phong-cach-retro-02-533x800.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\4f2c6dad-280a-47e1-b847-fcc6ba83b3f8-phong-cach-retro-02-533x800.jpeg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\5.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\56237fb8-c0f4-45ea-b79a-c4600ba8e5be-addstaff.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\56237fb8-c0f4-45ea-b79a-c4600ba8e5be-addstaff.png"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\5655a56b-235c-422f-b765-6467522a8e51-phong-cach-retro-02-533x800.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\5655a56b-235c-422f-b765-6467522a8e51-phong-cach-retro-02-533x800.jpeg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\5dcfb3a6-8d4c-442c-8cf9-3abe136be223-retro-01-570x400.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\5dcfb3a6-8d4c-442c-8cf9-3abe136be223-retro-01-570x400.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\6.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\63762c3c-e327-4b2f-a129-857214520fc3-thietthao1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\63762c3c-e327-4b2f-a129-857214520fc3-thietthao1.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\6cdecf84-fb1a-43e8-9eee-db0de0d50111-phong-cach-retro-02-533x800.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\6cdecf84-fb1a-43e8-9eee-db0de0d50111-phong-cach-retro-02-533x800.jpeg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\7.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\8.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\817dd62f-e138-44da-b12c-722816d2d3ad-phenika2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\817dd62f-e138-44da-b12c-722816d2d3ad-phenika2.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\85efd064-8c7a-4905-8a0d-e6be9c7772a3-retro.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\85efd064-8c7a-4905-8a0d-e6be9c7772a3-retro.jpeg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\8d63a191-95db-41cf-9a9e-8d67a4b6a73b-tuancuong1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\8d63a191-95db-41cf-9a9e-8d67a4b6a73b-tuancuong1.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\9.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\90134e25-5c98-4888-a63a-d63a10c0c37f-skyhome1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\90134e25-5c98-4888-a63a-d63a10c0c37f-skyhome1.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\90134e25-5c98-4888-a63a-d63a10c0c37f-skyhome3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\90134e25-5c98-4888-a63a-d63a10c0c37f-skyhome3.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\about.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\about.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\af9b1b2e-cb69-49ac-8f91-ce59a52f7c73-phong-cach-retro-02-533x800.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\af9b1b2e-cb69-49ac-8f91-ce59a52f7c73-phong-cach-retro-02-533x800.jpeg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\bg_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\bg_1.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\bg_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\bg_2.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\ca82a532-95f8-448a-bfd5-65318818dd86-ktxongba2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\ca82a532-95f8-448a-bfd5-65318818dd86-ktxongba2.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\ccfeeb97-fd20-49e7-a1f6-35585babbcd6-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\ccfeeb97-fd20-49e7-a1f6-35585babbcd6-2.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\d1b9bbf9-0e10-4280-8dd6-03c0617f3c24-luna3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\d1b9bbf9-0e10-4280-8dd6-03c0617f3c24-luna3.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\e2cefb4e-a0e6-4f34-a1d0-a5531c90203d-luna2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\e2cefb4e-a0e6-4f34-a1d0-a5531c90203d-luna2.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\f9f57f19-99ef-4413-8fcc-bae0b985b6f9-nguyenviet1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\f9f57f19-99ef-4413-8fcc-bae0b985b6f9-nguyenviet1.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\pexels-photo-6489734.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\pexels-photo-6489734.jpeg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\banner\\vatlieu.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\vatlieu.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\bg\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bg\\1.png"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\bg\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bg\\2.png"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\bg\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bg\\3.png"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\bg\\5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bg\\5.png"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\bg\\6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bg\\6.png"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\bg\\vatlieu.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg\\vatlieu.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\bg\\wood.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg\\wood.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\detail_backgorund2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\detail_backgorund2.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\detail_background.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\detail_background.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\detail_background2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\detail_background2.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\detail_background3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\detail_background3.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\mastercart.png",
+      "PackagePath": "staticwebassets\\assets\\img\\mastercart.png"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\momo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\momo.png"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\paypal.png",
+      "PackagePath": "staticwebassets\\assets\\img\\paypal.png"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\img\\vatlieu.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\vatlieu.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\js\\maplace-active.js",
+      "PackagePath": "staticwebassets\\assets\\js\\maplace-active.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\assets\\js\\vendor.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\datepicker\\date-picker\\datepicker.custom.js",
+      "PackagePath": "staticwebassets\\datepicker\\date-picker\\datepicker.custom.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\datepicker\\date-picker\\datepicker.en.js",
+      "PackagePath": "staticwebassets\\datepicker\\date-picker\\datepicker.en.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\datepicker\\date-picker\\datepicker.js",
+      "PackagePath": "staticwebassets\\datepicker\\date-picker\\datepicker.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\datepicker\\date-time-picker\\datetimepicker.custom.js",
+      "PackagePath": "staticwebassets\\datepicker\\date-time-picker\\datetimepicker.custom.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\datepicker\\date-time-picker\\moment.min.js",
+      "PackagePath": "staticwebassets\\datepicker\\date-time-picker\\moment.min.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\datepicker\\date-time-picker\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\datepicker\\date-time-picker\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\datepicker\\daterange-picker\\daterange-picker.custom.js",
+      "PackagePath": "staticwebassets\\datepicker\\daterange-picker\\daterange-picker.custom.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\datepicker\\daterange-picker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\datepicker\\daterange-picker\\daterangepicker.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\datepicker\\daterange-picker\\moment.min.js",
+      "PackagePath": "staticwebassets\\datepicker\\daterange-picker\\moment.min.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\0254d0cc-9ded-46b1-8ab1-253a1db10f78-luna1.jpg",
+      "PackagePath": "staticwebassets\\images\\0254d0cc-9ded-46b1-8ab1-253a1db10f78-luna1.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\0efa594e-0e8b-41cd-aaf0-5d8d8e86793d-phunhuan.jpg",
+      "PackagePath": "staticwebassets\\images\\0efa594e-0e8b-41cd-aaf0-5d8d8e86793d-phunhuan.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\17080188-3de2-495e-9562-671b9b1b7bbf-bcon2.jpg",
+      "PackagePath": "staticwebassets\\images\\17080188-3de2-495e-9562-671b9b1b7bbf-bcon2.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\19efab6d-8751-439f-8e6c-fc18734965fd-eco2.jpg",
+      "PackagePath": "staticwebassets\\images\\19efab6d-8751-439f-8e6c-fc18734965fd-eco2.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\1ca5d009-8c25-4fdd-8c20-32241ca8bae8-phunhuan.jpg",
+      "PackagePath": "staticwebassets\\images\\1ca5d009-8c25-4fdd-8c20-32241ca8bae8-phunhuan.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\284ebfd7-229f-4193-96ed-13169dee8a58-phenika2.jpg",
+      "PackagePath": "staticwebassets\\images\\284ebfd7-229f-4193-96ed-13169dee8a58-phenika2.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\285bfd74-85c9-4763-a779-0a783537364f-ngocmy1.jpg",
+      "PackagePath": "staticwebassets\\images\\285bfd74-85c9-4763-a779-0a783537364f-ngocmy1.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\29329c06-9a02-43a7-a071-3d396ef28d39-shoph.jpg",
+      "PackagePath": "staticwebassets\\images\\29329c06-9a02-43a7-a071-3d396ef28d39-shoph.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\2aac9f91-2b80-4e47-abf8-4a462f0f461a-skyhome3.jpg",
+      "PackagePath": "staticwebassets\\images\\2aac9f91-2b80-4e47-abf8-4a462f0f461a-skyhome3.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\2addc1c5-b535-4c7d-bdcc-186abc37e572-skyhome2.jpg",
+      "PackagePath": "staticwebassets\\images\\2addc1c5-b535-4c7d-bdcc-186abc37e572-skyhome2.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\2c49701a-f3bb-445b-b447-12e73a76507b-ocean.jpg",
+      "PackagePath": "staticwebassets\\images\\2c49701a-f3bb-445b-b447-12e73a76507b-ocean.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\2c585f0b-c750-4746-b141-22e84fbe299c-myhome1.jpg",
+      "PackagePath": "staticwebassets\\images\\2c585f0b-c750-4746-b141-22e84fbe299c-myhome1.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\313ef0ca-bd42-4d73-acef-6cc569ff2650-phanvantri3.jpg",
+      "PackagePath": "staticwebassets\\images\\313ef0ca-bd42-4d73-acef-6cc569ff2650-phanvantri3.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\3fab80a5-fa8c-4522-8dfd-af8fa75c5faa-shoph2.jpg",
+      "PackagePath": "staticwebassets\\images\\3fab80a5-fa8c-4522-8dfd-af8fa75c5faa-shoph2.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\40ea1331-1446-4b0f-944b-e5b70837a18d-sunrise2.jpg",
+      "PackagePath": "staticwebassets\\images\\40ea1331-1446-4b0f-944b-e5b70837a18d-sunrise2.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\44436d87-c29d-4c7a-8075-51d88db6abf5-kt_gy.PNG",
+      "PackagePath": "staticwebassets\\images\\44436d87-c29d-4c7a-8075-51d88db6abf5-kt_gy.PNG"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\45ad52af-78ab-453d-9580-ae23c7fb89bd-holaapt1.jpg",
+      "PackagePath": "staticwebassets\\images\\45ad52af-78ab-453d-9580-ae23c7fb89bd-holaapt1.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\49c68ce4-80b3-4e19-8b53-02b011c73b83-vinhomes1.jpg",
+      "PackagePath": "staticwebassets\\images\\49c68ce4-80b3-4e19-8b53-02b011c73b83-vinhomes1.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\49f411be-c83d-4417-b370-68d9f142a2af-luna1.jpg",
+      "PackagePath": "staticwebassets\\images\\49f411be-c83d-4417-b370-68d9f142a2af-luna1.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\4c7e3b22-e1ec-4bb2-b5c7-e35cf1f63275-vinhomes.jpg",
+      "PackagePath": "staticwebassets\\images\\4c7e3b22-e1ec-4bb2-b5c7-e35cf1f63275-vinhomes.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\4d0b0d30-227c-474e-b01c-67545ea8d8c8-phanvantri.jpg",
+      "PackagePath": "staticwebassets\\images\\4d0b0d30-227c-474e-b01c-67545ea8d8c8-phanvantri.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\4f2c6dad-280a-47e1-b847-fcc6ba83b3f8-phong-cach-retro-02-533x800.jpeg",
+      "PackagePath": "staticwebassets\\images\\4f2c6dad-280a-47e1-b847-fcc6ba83b3f8-phong-cach-retro-02-533x800.jpeg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\5203e249-7cd0-46c9-98ec-447cd1cb18f3-eco1.jpg",
+      "PackagePath": "staticwebassets\\images\\5203e249-7cd0-46c9-98ec-447cd1cb18f3-eco1.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\559ab952-c2aa-4f6d-9b90-465299117d94-phenika3.jpg",
+      "PackagePath": "staticwebassets\\images\\559ab952-c2aa-4f6d-9b90-465299117d94-phenika3.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\56237fb8-c0f4-45ea-b79a-c4600ba8e5be-addstaff.png",
+      "PackagePath": "staticwebassets\\images\\56237fb8-c0f4-45ea-b79a-c4600ba8e5be-addstaff.png"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\5655a56b-235c-422f-b765-6467522a8e51-phong-cach-retro-02-533x800.jpeg",
+      "PackagePath": "staticwebassets\\images\\5655a56b-235c-422f-b765-6467522a8e51-phong-cach-retro-02-533x800.jpeg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\578d9b2f-b8dc-4119-b7e1-a67a29638f85-eco.jpg",
+      "PackagePath": "staticwebassets\\images\\578d9b2f-b8dc-4119-b7e1-a67a29638f85-eco.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\5c490df7-d1c6-460f-a129-cb814a4ded56-luna3.jpg",
+      "PackagePath": "staticwebassets\\images\\5c490df7-d1c6-460f-a129-cb814a4ded56-luna3.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\5dcfb3a6-8d4c-442c-8cf9-3abe136be223-retro-01-570x400.jpg",
+      "PackagePath": "staticwebassets\\images\\5dcfb3a6-8d4c-442c-8cf9-3abe136be223-retro-01-570x400.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\63762c3c-e327-4b2f-a129-857214520fc3-thietthao1.jpg",
+      "PackagePath": "staticwebassets\\images\\63762c3c-e327-4b2f-a129-857214520fc3-thietthao1.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\66b62646-44ef-465b-afc8-a1f5e38a3fa8-phanvantri2.jpg",
+      "PackagePath": "staticwebassets\\images\\66b62646-44ef-465b-afc8-a1f5e38a3fa8-phanvantri2.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\6847ede0-8c2e-4855-b7b9-5164204dfcd3-sunrise1.jpg",
+      "PackagePath": "staticwebassets\\images\\6847ede0-8c2e-4855-b7b9-5164204dfcd3-sunrise1.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\6c8bbae5-1ee3-4c39-999e-a75ccdae008b-ocean2.jpg",
+      "PackagePath": "staticwebassets\\images\\6c8bbae5-1ee3-4c39-999e-a75ccdae008b-ocean2.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\6cdecf84-fb1a-43e8-9eee-db0de0d50111-phong-cach-retro-02-533x800.jpeg",
+      "PackagePath": "staticwebassets\\images\\6cdecf84-fb1a-43e8-9eee-db0de0d50111-phong-cach-retro-02-533x800.jpeg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\7d234f0c-2467-437f-9749-4400a72cbecb-suckhoethechat.png",
+      "PackagePath": "staticwebassets\\images\\7d234f0c-2467-437f-9749-4400a72cbecb-suckhoethechat.png"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\817dd62f-e138-44da-b12c-722816d2d3ad-phenika2.jpg",
+      "PackagePath": "staticwebassets\\images\\817dd62f-e138-44da-b12c-722816d2d3ad-phenika2.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\85efd064-8c7a-4905-8a0d-e6be9c7772a3-retro.jpeg",
+      "PackagePath": "staticwebassets\\images\\85efd064-8c7a-4905-8a0d-e6be9c7772a3-retro.jpeg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\8606ddb5-39ec-4005-b997-d21c06bc845c-phunhuan2.jpeg",
+      "PackagePath": "staticwebassets\\images\\8606ddb5-39ec-4005-b997-d21c06bc845c-phunhuan2.jpeg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\8a4008a3-6299-44c9-84ab-84bd2fee2fef-phenika4.jpg",
+      "PackagePath": "staticwebassets\\images\\8a4008a3-6299-44c9-84ab-84bd2fee2fef-phenika4.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\8d63a191-95db-41cf-9a9e-8d67a4b6a73b-tuancuong1.jpg",
+      "PackagePath": "staticwebassets\\images\\8d63a191-95db-41cf-9a9e-8d67a4b6a73b-tuancuong1.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\8f45072d-68b0-4173-974a-7fb52a9cf660-vinhomes2.jpg",
+      "PackagePath": "staticwebassets\\images\\8f45072d-68b0-4173-974a-7fb52a9cf660-vinhomes2.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\90134e25-5c98-4888-a63a-d63a10c0c37f-skyhome1.jpg",
+      "PackagePath": "staticwebassets\\images\\90134e25-5c98-4888-a63a-d63a10c0c37f-skyhome1.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\90134e25-5c98-4888-a63a-d63a10c0c37f-skyhome3.jpg",
+      "PackagePath": "staticwebassets\\images\\90134e25-5c98-4888-a63a-d63a10c0c37f-skyhome3.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\9c34f24f-b505-412e-b0e6-987a4e425d08-phunhuan3.jpeg",
+      "PackagePath": "staticwebassets\\images\\9c34f24f-b505-412e-b0e6-987a4e425d08-phunhuan3.jpeg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\a1.jpg",
+      "PackagePath": "staticwebassets\\images\\a1.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\a2.jpg",
+      "PackagePath": "staticwebassets\\images\\a2.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\a25ba537-4989-4544-8a50-9d83d6e9fa27-nganhaquachat.png",
+      "PackagePath": "staticwebassets\\images\\a25ba537-4989-4544-8a50-9d83d6e9fa27-nganhaquachat.png"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\a3.jpg",
+      "PackagePath": "staticwebassets\\images\\a3.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\a4.jpg",
+      "PackagePath": "staticwebassets\\images\\a4.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\a5949f80-4bce-489e-a353-afffd0915f3b-bcon.jpg",
+      "PackagePath": "staticwebassets\\images\\a5949f80-4bce-489e-a353-afffd0915f3b-bcon.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\af9b1b2e-cb69-49ac-8f91-ce59a52f7c73-phong-cach-retro-02-533x800.jpeg",
+      "PackagePath": "staticwebassets\\images\\af9b1b2e-cb69-49ac-8f91-ce59a52f7c73-phong-cach-retro-02-533x800.jpeg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\avatar\\a1.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\a1.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\avatar\\a2.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\a2.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\avatar\\a3.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\a3.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\avatar\\a4.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\a4.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\b3d9fc5e-3cc7-4a74-9df6-2fb6c88d4ab6-phunhuan3.jpeg",
+      "PackagePath": "staticwebassets\\images\\b3d9fc5e-3cc7-4a74-9df6-2fb6c88d4ab6-phunhuan3.jpeg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\c928d6bf-f49a-4673-8b60-00a118abec90-bcon1.jpg",
+      "PackagePath": "staticwebassets\\images\\c928d6bf-f49a-4673-8b60-00a118abec90-bcon1.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\ca82a532-95f8-448a-bfd5-65318818dd86-ktxongba2.jpg",
+      "PackagePath": "staticwebassets\\images\\ca82a532-95f8-448a-bfd5-65318818dd86-ktxongba2.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\ccfeeb97-fd20-49e7-a1f6-35585babbcd6-2.jpg",
+      "PackagePath": "staticwebassets\\images\\ccfeeb97-fd20-49e7-a1f6-35585babbcd6-2.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\ced1f05b-bfca-4852-bf7d-da350659eceb-luna2.jpg",
+      "PackagePath": "staticwebassets\\images\\ced1f05b-bfca-4852-bf7d-da350659eceb-luna2.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\d1b9bbf9-0e10-4280-8dd6-03c0617f3c24-luna3.jpg",
+      "PackagePath": "staticwebassets\\images\\d1b9bbf9-0e10-4280-8dd6-03c0617f3c24-luna3.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\d836caa6-fab2-4df2-940b-1bcb49c9a4aa-ocean1.jpg",
+      "PackagePath": "staticwebassets\\images\\d836caa6-fab2-4df2-940b-1bcb49c9a4aa-ocean1.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\e2cefb4e-a0e6-4f34-a1d0-a5531c90203d-luna2.jpg",
+      "PackagePath": "staticwebassets\\images\\e2cefb4e-a0e6-4f34-a1d0-a5531c90203d-luna2.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\e3d13018-b95a-4a8a-bd75-7f2b6d9f696c-sunrise.jpg",
+      "PackagePath": "staticwebassets\\images\\e3d13018-b95a-4a8a-bd75-7f2b6d9f696c-sunrise.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\e661e2d0-2110-4693-beee-914bd113013f-sgriverside2.jpg",
+      "PackagePath": "staticwebassets\\images\\e661e2d0-2110-4693-beee-914bd113013f-sgriverside2.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\ebe04997-0d3d-44fb-bc44-dcd1495304d3-shoph1.jpg",
+      "PackagePath": "staticwebassets\\images\\ebe04997-0d3d-44fb-bc44-dcd1495304d3-shoph1.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\ed80e918-fe0c-4e50-8774-2a80e4c7d25a-phunhuan2.jpeg",
+      "PackagePath": "staticwebassets\\images\\ed80e918-fe0c-4e50-8774-2a80e4c7d25a-phunhuan2.jpeg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\efaa0b21-0d06-466f-8266-b7dc8c101266-suckhoetaichinh.png",
+      "PackagePath": "staticwebassets\\images\\efaa0b21-0d06-466f-8266-b7dc8c101266-suckhoetaichinh.png"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\f1734f3f-fdb9-4795-ad82-6a0f0b0a1652-sgriverside3.jpg",
+      "PackagePath": "staticwebassets\\images\\f1734f3f-fdb9-4795-ad82-6a0f0b0a1652-sgriverside3.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\f5931985-b3c6-465f-aa22-d9f8e634a08c-sgriverside1.jpg",
+      "PackagePath": "staticwebassets\\images\\f5931985-b3c6-465f-aa22-d9f8e634a08c-sgriverside1.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\f9f57f19-99ef-4413-8fcc-bae0b985b6f9-nguyenviet1.jpg",
+      "PackagePath": "staticwebassets\\images\\f9f57f19-99ef-4413-8fcc-bae0b985b6f9-nguyenviet1.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\news1.jpg",
+      "PackagePath": "staticwebassets\\images\\news1.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\news10.jpg",
+      "PackagePath": "staticwebassets\\images\\news10.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\news2.jpg",
+      "PackagePath": "staticwebassets\\images\\news2.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\news3.jpg",
+      "PackagePath": "staticwebassets\\images\\news3.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\news4.jpg",
+      "PackagePath": "staticwebassets\\images\\news4.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\news5.jpg",
+      "PackagePath": "staticwebassets\\images\\news5.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\news6.jpg",
+      "PackagePath": "staticwebassets\\images\\news6.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\news7.jpg",
+      "PackagePath": "staticwebassets\\images\\news7.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\news8.jpg",
+      "PackagePath": "staticwebassets\\images\\news8.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\news9.jpg",
+      "PackagePath": "staticwebassets\\images\\news9.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\tienuc.jpg",
+      "PackagePath": "staticwebassets\\images\\tienuc.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\images\\vatlieu.jpg",
+      "PackagePath": "staticwebassets\\images\\vatlieu.jpg"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\all.js",
+      "PackagePath": "staticwebassets\\js\\all.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\js\\all.min.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\application\\canvasjs\\jquery-ui.1.11.2.min.js",
+      "PackagePath": "staticwebassets\\js\\application\\canvasjs\\jquery-ui.1.11.2.min.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\application\\canvasjs\\jquery.canvasjs.min.js",
+      "PackagePath": "staticwebassets\\js\\application\\canvasjs\\jquery.canvasjs.min.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\application\\canvasjs\\styles.css",
+      "PackagePath": "staticwebassets\\js\\application\\canvasjs\\styles.css"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\application\\common.js",
+      "PackagePath": "staticwebassets\\js\\application\\common.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\application\\web\\chart.js",
+      "PackagePath": "staticwebassets\\js\\application\\web\\chart.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\application\\web\\checkout.js",
+      "PackagePath": "staticwebassets\\js\\application\\web\\checkout.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\application\\web\\common.js",
+      "PackagePath": "staticwebassets\\js\\application\\web\\common.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\application\\web\\get-agent-info.js",
+      "PackagePath": "staticwebassets\\js\\application\\web\\get-agent-info.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\brands.js",
+      "PackagePath": "staticwebassets\\js\\brands.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\brands.min.js",
+      "PackagePath": "staticwebassets\\js\\brands.min.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\conflict-detection.js",
+      "PackagePath": "staticwebassets\\js\\conflict-detection.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\conflict-detection.min.js",
+      "PackagePath": "staticwebassets\\js\\conflict-detection.min.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\fontawesome.js",
+      "PackagePath": "staticwebassets\\js\\fontawesome.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\fontawesome.min.js",
+      "PackagePath": "staticwebassets\\js\\fontawesome.min.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\formatHtml.js",
+      "PackagePath": "staticwebassets\\js\\formatHtml.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\inspinia.js",
+      "PackagePath": "staticwebassets\\js\\inspinia.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\jquery-3.1.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.1.1.min.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\modal.js",
+      "PackagePath": "staticwebassets\\js\\modal.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\mustache.min.js",
+      "PackagePath": "staticwebassets\\js\\mustache.min.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\pagination.min.js",
+      "PackagePath": "staticwebassets\\js\\pagination.min.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\plugins\\dataTables\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\dataTables\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\plugins\\dataTables\\datatables.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\dataTables\\datatables.min.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\plugins\\datapicker\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datapicker\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\plugins\\dropzone\\dropzone.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\dropzone\\dropzone.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\plugins\\jquery-ui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-ui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\plugins\\metisMenu\\jquery.metisMenu.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\metisMenu\\jquery.metisMenu.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\plugins\\pace\\pace.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\pace\\pace.min.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\plugins\\slimscroll\\jquery.slimscroll.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\slimscroll\\jquery.slimscroll.min.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\plugins\\summernote\\summernote-bs4.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\summernote\\summernote-bs4.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\plugins\\sweetalert\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\sweetalert\\sweetalert.min.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\rating\\rating.js",
+      "PackagePath": "staticwebassets\\js\\rating\\rating.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\regular.js",
+      "PackagePath": "staticwebassets\\js\\regular.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\regular.min.js",
+      "PackagePath": "staticwebassets\\js\\regular.min.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\services\\aboutUs.js",
+      "PackagePath": "staticwebassets\\js\\services\\aboutUs.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\services\\hakunamata.js",
+      "PackagePath": "staticwebassets\\js\\services\\hakunamata.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\services\\realEstateServices.js",
+      "PackagePath": "staticwebassets\\js\\services\\realEstateServices.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\solid.js",
+      "PackagePath": "staticwebassets\\js\\solid.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\solid.min.js",
+      "PackagePath": "staticwebassets\\js\\solid.min.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\v4-shims.js",
+      "PackagePath": "staticwebassets\\js\\v4-shims.js"
+    },
+    {
+      "Id": "D:\\RASCOMPLETE\\RASCOMPLETE\\RAS\\HakunaMatata\\wwwroot\\js\\v4-shims.min.js",
+      "PackagePath": "staticwebassets\\js\\v4-shims.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.RAS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.RAS.props",
+      "PackagePath": "build\\RAS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.RAS.props",
+      "PackagePath": "buildMultiTargeting\\RAS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.RAS.props",
+      "PackagePath": "buildTransitive\\RAS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

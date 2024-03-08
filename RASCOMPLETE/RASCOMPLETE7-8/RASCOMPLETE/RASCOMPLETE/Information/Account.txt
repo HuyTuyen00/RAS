@@ -1,0 +1,15 @@
+Tài khoản Test thanh toán VNPay:
+
+- Ngân hàng: NCB
+- Số thẻ: 9704198526191432198
+- Tên chủ thẻ: NGUYEN VAN A
+- Ngày phát hành: 07/15
+- Mật khẩu OTP: 123456
+
+refernce: https://www.progcoder.com/p/tich-hop-thanh-toan-online-vnpay-net-core-50da8xP
+
+Tải App thanh toán MoMo:
+
+https://developers.momo.vn/v3/vi/download/
+
+refernce: https://www.progcoder.com/p/tich-hop-thanh-toan-momo-voi-asp-net-core-7d5e4hP

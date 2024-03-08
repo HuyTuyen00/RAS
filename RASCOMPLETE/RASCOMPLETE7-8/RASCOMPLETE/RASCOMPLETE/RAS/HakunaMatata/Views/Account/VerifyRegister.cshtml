@@ -1,0 +1,129 @@
+﻿@model VM_Register
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Xác thực OTP</title>
+    <link rel=icon href=~/assets/img/icon.png sizes="20x20" type="image/png">
+    <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/admin/font-awesome/css/font-awesome.css" rel="stylesheet">
+    <link href="~/admin/css/animate.css" rel="stylesheet">
+    <link href="~/admin/css/loginstyle.css" rel="stylesheet">
+    <link href="~/admin/css/style.css" rel="stylesheet">
+</head>
+
+<body class="gray-bg">
+<div class="login">
+    <div class="container">
+        <h1>Xác thực mã OTP</h1>
+        <p class="text-warning">@ViewBag.Message</p>
+
+        <form id="formSubmit" asp-action="SubmitRegister" method="post" asp-route-returnurl="@Model.ReturnUrl">
+
+            <div id="tempsubmit" style="display: none;">
+                <div class="form-group">
+                    <input asp-for="LoginName" class="form-control" placeholder="Tài khoản đăng nhập" required>
+                </div>
+                <div class="form-group">
+                    <input asp-for="AgentName" type="text" class="form-control" placeholder="Họ và tên" required>
+                    <span asp-validation-for="AgentName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input asp-for="PhoneNumber" type="text" class="form-control" placeholder="Số điện thoại" required>
+                    <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input asp-for="Email" name="Email" id="emailInput" class="form-control" placeholder="Email" required>
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                    <div class="text-left pl-1" id="check-existed"></div>
+                </div>
+                <div class="form-group">
+                    <input asp-for="Password" type="password" class="form-control" placeholder="Mật khẩu" required>
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input asp-for="ConfirmPassword" type="password" class="form-control" placeholder="Xác nhận mật khẩu" required>
+                    <span asp-validation-for="ConfirmPassword" class=" text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group" style="font-size:1.5rem">
+                <label for="email">Địa chỉ email:</label>
+                <input type="text" id="email" class="form-control" value="@Model.Email" readonly>
+            </div>
+            <div class="form-group" style="font-size:1.5rem">
+                <label for="otp">Mã OTP:</label>
+                <input type="text" id="otp" name="otp" class="form-control" required>
+                <div id="errorText" class="text-danger" style="display: none;"></div>
+            </div>
+            <div class="form-group">
+                <label id="countdownLabel">Thời gian còn lại: 2:00</label>
+            </div>
+            <div class="form-group">
+                <button style="font-size:2rem" type="submit" class="btn btn-primary" id="btn-verify">Xác nhận</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+<!-- Mainly scripts -->
+<script src="~/admin/js/jquery-3.1.1.min.js"></script>
+<script src="~/admin/js/popper.min.js"></script>
+<script src="~/admin/js/bootstrap.js"></script>
+<script src="~/admin/js/services/hakunamata.js"></script>
+<script>
+        $('#btn-verify').on('click', function(e) {
+          e.preventDefault();
+          var inputOTP = $('#otp').val();
+          var serverOTP = "@Model.Opt";
+          
+          if (inputOTP === serverOTP) {
+              alert("Mã OTP hợp lệ");
+              $('#formSubmit').submit();
+          } else {
+              // Hiển thị cảnh báo
+              var errorText = document.getElementById("errorText");
+              errorText.textContent = "Mã OTP không hợp lệ. Vui lòng kiểm tra lại.";
+              errorText.style.display = "block";
+          }
+        })
+        
+        // Đếm ngược 2 phút
+        var countdown = 120;
+        var countdownLabel = document.getElementById("countdownLabel");
+
+        function updateCountdown() {
+            var minutes = Math.floor(countdown / 60);
+            var seconds = countdown % 60;
+            countdownLabel.textContent = "Thời gian còn lại: " + minutes.toString().padStart(2, "0") + ":" + seconds.toString().padStart(2, "0");
+
+            if (countdown > 0) {
+                countdown--;
+                setTimeout(updateCountdown, 1000);
+            }
+        }
+
+        updateCountdown();
+    </script>
+</body>
+</html>
+
+<div class="parent clearfix">
+    <div class="bg-illustration">
+        <img src="~/assets/img/RAS-3.png" alt="logo">
+
+        <div class="burger-btn">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </div>
+</div>
